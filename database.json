@@ -1,0 +1,41 @@
+{
+  "users": {
+    "13604644637@s.whatsapp.net": {
+      "exp": 70,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "19294515952@s.whatsapp.net": {
+      "exp": 48,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {},
+  "stats": {
+    "general-menu.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1667824113497,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "13604644637@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    },
+    "19294515952@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
