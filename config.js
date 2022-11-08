@@ -4,9 +4,9 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+92 316 5123719', 'UMAR.yu'],
-  ['+49 173 96999993'],
-  ['+4794447747 ']
+  ['+92 3470027813', 'Ahmad Ali🕯️'],
+  ['+27 73 995 8612'],
+  ['+1 786 590 7220 ']
 ]
 
 
@@ -15,8 +15,8 @@ global.owner =
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['923470027813','923191089077','27739958612','17865907220'] // Want some help?
+global.prems = ['923470027813','923191089077','27739958612','17865907220'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -50,14 +50,14 @@ global.APIKeys = { // APIKey Here
 
 
 // Sticker WM
-global.packname = `\t\t「 Cʀᴇᴀᴛᴇᴅ Bʏ Ʋᴍᴀʀ 」\n\t\t「 IG: dark-umar404」\n\t\t「 SC: github.com/umar404/ud-md 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 x_ikratos_x 」\n\t\t「 IG: itx_ahmad.ali」\n\t\t「 Ahmad Ali 🇵🇰 」\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ʋᴍᴀʀ - 2022'
+global.me = 'ꪶ𝜹𝛪𝛸 𝐺𝛥𝛮𝐺𝑆𝑇𝛯𝑅𝜹ꫂ݉𝃱  ᭄═════════•🫶🍫♥️'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
